@@ -54,8 +54,35 @@
         Example: Demonstrating coding logic with a real-world scenario, like a recipe.
 
 
-What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
-How do headings and subheadings improve the readability and organization of technical documents?
-What are some best practices for creating effective headings and subheadings?
-What should be included in the introduction of a Readme to immediately inform users about what the product does?
-How can you succinctly convey the purpose and key features of a product?
+8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
+    a) Diagrams – Best for showing relationships, processes, or structures.
+    b) Charts (Bar, Line, Pie, etc.) – Ideal for presenting data, trends, and comparisons.
+    c) Tables – Useful for displaying structured data in an easy-to-read format.  
+    d) 3D Models & Schematics – Essential for engineering, architecture, and medical fields.
+
+
+9. How do headings and subheadings improve the readability and organization of technical documents?
+Headings and subheadings improve technical document readability by structuring content, enhancing scannability, and aiding comprehension. They help readers navigate quickly, improve accessibility for screen readers, and organize information logically. Clear headings ensure a user-friendly and well-structured document.
+
+
+10. What are some best practices for creating effective headings and subheadings?
+    a) Be Clear & Descriptive – Use concise, informative titles that reflect the content.
+    b) Use a Logical Hierarchy – Follow a structured format
+    c) Be Consistent – Maintain a uniform style throughout the document.
+    d) Avoid Jargon (Unless Necessary) – Keep headings simple and accessible to the audience.
+
+
+11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
+    a) Product Name & Purpose – Clearly state what the product is and its main function
+    b) Intended Audience – Specify who the product is for.
+    c) How It Works (Brief Overview) – A one-liner on how users interact with it.
+    d) Installation or Quick Start Link – Direct users to setup instructions.
+
+
+12. How can you succinctly convey the purpose and key features of a product?
+    a) Start with a One-Line Summary – Clearly state what the product does.
+    b) Highlight Key Features in Bullet Points – Keep them short and impactful.
+    c) Mention the Target Audience – Specify who benefits from it.
+    d) Keep It Concise – Use clear, simple language, avoiding unnecessary details.
+
+
